@@ -1,0 +1,7 @@
+
+.App-header{
+  text-align: center;
+}
+.App-header>h2{
+    color: rgb(4, 64, 112);
+}
